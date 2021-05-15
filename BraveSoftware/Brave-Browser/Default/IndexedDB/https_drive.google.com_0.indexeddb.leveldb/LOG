@@ -1,0 +1,6 @@
+2021/05/13-12:34:20.115 395 Creating DB /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2021/05/13-12:34:20.245 395 Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-12:36:46.578 c10 Level-0 table #5: started
+2021/05/13-12:36:47.361 c10 Level-0 table #5: 249657 bytes OK
+2021/05/13-12:36:47.450 c10 Delete type=0 #3
+2021/05/13-12:36:47.451 c10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

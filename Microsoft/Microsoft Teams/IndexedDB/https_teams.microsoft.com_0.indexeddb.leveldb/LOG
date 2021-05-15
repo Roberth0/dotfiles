@@ -1,0 +1,145 @@
+2021/05/13-13:06:12.504 2f8 Reusing MANIFEST /home/itami/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-13:06:12.504 2f8 Recovering log #450
+2021/05/13-13:06:12.822 2f8 Reusing old log /home/itami/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000450.log 
+2021/05/13-13:06:16.063 3a3 Compacting 1@1 + 2@2 files
+2021/05/13-13:06:16.508 3a3 Generated table #457@1: 3779 keys, 2130220 bytes
+2021/05/13-13:06:17.548 3a3 Generated table #458@1: 12393 keys, 2193812 bytes
+2021/05/13-13:06:17.742 3a3 Generated table #459@1: 479 keys, 1032721 bytes
+2021/05/13-13:06:17.742 3a3 Compacted 1@1 + 2@2 files => 5356753 bytes
+2021/05/13-13:06:17.958 3a3 compacted to: files[ 0 0 5 0 0 0 0 ]
+2021/05/13-13:11:30.862 3a3 Level-0 table #461: started
+2021/05/13-13:11:30.925 378 Current memtable full; waiting...
+2021/05/13-13:11:30.941 3a3 Level-0 table #461: 1938798 bytes OK
+2021/05/13-13:11:31.003 3a3 Delete type=0 #450
+2021/05/13-13:11:31.003 3a3 Delete type=2 #453
+2021/05/13-13:11:31.003 3a3 Delete type=2 #452
+2021/05/13-13:11:31.003 3a3 Delete type=2 #451
+2021/05/13-13:11:31.004 3a3 Level-0 table #463: started
+2021/05/13-13:11:31.127 3a3 Level-0 table #463: 2030359 bytes OK
+2021/05/13-13:11:31.589 3a3 Delete type=0 #460
+2021/05/13-13:12:13.118 3a3 Compacting 1@1 + 5@2 files
+2021/05/13-13:12:14.809 3a3 Generated table #464@1: 3855 keys, 2163857 bytes
+2021/05/13-13:12:14.920 3a3 Generated table #465@1: 10416 keys, 2180737 bytes
+2021/05/13-13:12:15.042 3a3 Generated table #466@1: 849 keys, 2126252 bytes
+2021/05/13-13:12:15.121 3a3 Generated table #467@1: 9470 keys, 1801393 bytes
+2021/05/13-13:12:15.121 3a3 Compacted 1@1 + 5@2 files => 8272239 bytes
+2021/05/13-13:12:15.170 3a3 compacted to: files[ 1 0 4 0 0 0 0 ]
+2021/05/13-13:12:15.170 3a3 Delete type=2 #457
+2021/05/13-13:12:15.170 3a3 Delete type=2 #458
+2021/05/13-13:12:15.170 3a3 Delete type=2 #455
+2021/05/13-13:12:15.170 3a3 Delete type=2 #459
+2021/05/13-13:12:15.170 3a3 Delete type=2 #461
+2021/05/13-13:12:15.170 3a3 Delete type=2 #454
+2021/05/13-13:17:45.188 3a3 Moved #463 to level-1 2030359 bytes OK: files[ 0 1 4 0 0 0 0 ]
+2021/05/13-13:17:45.891 3a3 Level-0 table #469: started
+2021/05/13-13:17:46.324 3a3 Level-0 table #469: 2006988 bytes OK
+2021/05/13-13:17:46.437 3a3 Delete type=0 #462
+2021/05/13-13:17:46.662 3a3 Compacting 1@0 + 1@1 files
+2021/05/13-13:17:46.796 3a3 Generated table #470@0: 7400 keys, 2032996 bytes
+2021/05/13-13:17:46.796 3a3 Compacted 1@0 + 1@1 files => 2032996 bytes
+2021/05/13-13:17:46.963 3a3 compacted to: files[ 0 1 4 0 0 0 0 ]
+2021/05/13-13:17:46.963 3a3 Delete type=2 #469
+2021/05/13-13:17:46.963 3a3 Delete type=2 #463
+2021/05/13-13:17:46.964 3a3 Level-0 table #472: started
+2021/05/13-13:17:47.083 378 Current memtable full; waiting...
+2021/05/13-13:17:47.116 3a3 Level-0 table #472: 2015074 bytes OK
+2021/05/13-13:17:47.207 3a3 Delete type=0 #468
+2021/05/13-13:17:47.208 3a3 Level-0 table #474: started
+2021/05/13-13:17:47.314 3a3 Level-0 table #474: 2087677 bytes OK
+2021/05/13-13:17:47.376 3a3 Delete type=0 #471
+2021/05/13-13:24:18.431 3a3 Compacting 2@0 + 1@1 files
+2021/05/13-13:24:18.580 3a3 Generated table #475@0: 11761 keys, 2163233 bytes
+2021/05/13-13:24:18.652 3a3 Generated table #476@0: 48 keys, 27517 bytes
+2021/05/13-13:24:18.652 3a3 Compacted 2@0 + 1@1 files => 2190750 bytes
+2021/05/13-13:24:18.788 3a3 compacted to: files[ 0 2 4 0 0 0 0 ]
+2021/05/13-13:24:18.788 3a3 Delete type=2 #474
+2021/05/13-13:24:18.788 3a3 Delete type=2 #470
+2021/05/13-13:24:18.788 3a3 Delete type=2 #472
+2021/05/13-13:24:19.865 3a3 Expanding@1 1+4 (2163233+8272239 bytes) to 2+4 (2190750+8272239 bytes)
+2021/05/13-13:24:19.865 3a3 Compacting 2@1 + 4@2 files
+2021/05/13-13:24:19.994 987 Current memtable full; waiting...
+2021/05/13-13:24:20.019 3a3 Generated table #477@1: 3879 keys, 2151309 bytes
+2021/05/13-13:24:20.019 3a3 Level-0 table #479: started
+2021/05/13-13:24:21.137 3a3 Level-0 table #479: 1977387 bytes OK
+2021/05/13-13:24:21.932 3a3 Delete type=0 #473
+2021/05/13-13:24:21.933 3a3 Level-0 table #482: started
+2021/05/13-13:24:22.068 3a3 Level-0 table #482: 2029892 bytes OK
+2021/05/13-13:24:22.175 3a3 Delete type=0 #478
+2021/05/13-13:24:22.282 3a3 Generated table #480@1: 9946 keys, 2178856 bytes
+2021/05/13-13:24:22.394 3a3 Generated table #483@1: 2872 keys, 2132230 bytes
+2021/05/13-13:24:22.495 3a3 Generated table #484@1: 7417 keys, 1726391 bytes
+2021/05/13-13:24:22.495 3a3 Compacted 2@1 + 4@2 files => 8188786 bytes
+2021/05/13-13:24:22.556 3a3 compacted to: files[ 2 0 4 0 0 0 0 ]
+2021/05/13-13:24:22.556 3a3 Delete type=2 #466
+2021/05/13-13:24:22.556 3a3 Delete type=2 #475
+2021/05/13-13:24:22.556 3a3 Delete type=2 #467
+2021/05/13-13:24:22.556 3a3 Delete type=2 #476
+2021/05/13-13:24:22.556 3a3 Delete type=2 #464
+2021/05/13-13:24:22.556 3a3 Delete type=2 #465
+2021/05/13-13:34:40.318 3a3 Compacting 2@0 + 0@1 files
+2021/05/13-13:34:40.399 3a3 Generated table #485@0: 4460 keys, 2126104 bytes
+2021/05/13-13:34:40.466 3a3 Generated table #486@0: 2940 keys, 1732138 bytes
+2021/05/13-13:34:40.466 3a3 Compacted 2@0 + 0@1 files => 3858242 bytes
+2021/05/13-13:34:40.516 3a3 compacted to: files[ 0 2 4 0 0 0 0 ]
+2021/05/13-13:34:40.516 3a3 Delete type=2 #482
+2021/05/13-13:34:40.516 3a3 Delete type=2 #479
+2021/05/13-13:37:16.123 3a3 Expanding@1 1+4 (1732138+8188786 bytes) to 2+4 (3858242+8188786 bytes)
+2021/05/13-13:37:16.123 3a3 Compacting 2@1 + 4@2 files
+2021/05/13-13:37:16.217 3a3 Generated table #487@1: 4384 keys, 2125237 bytes
+2021/05/13-13:37:16.341 3a3 Generated table #488@1: 8061 keys, 2160842 bytes
+2021/05/13-13:37:16.482 3a3 Generated table #489@1: 5499 keys, 2167952 bytes
+2021/05/13-13:37:16.590 3a3 Generated table #490@1: 6692 keys, 2156097 bytes
+2021/05/13-13:37:16.702 3a3 Generated table #491@1: 3488 keys, 1434710 bytes
+2021/05/13-13:37:16.703 3a3 Compacted 2@1 + 4@2 files => 10044838 bytes
+2021/05/13-13:37:17.229 3a3 compacted to: files[ 0 0 5 0 0 0 0 ]
+2021/05/13-13:37:17.230 3a3 Delete type=2 #486
+2021/05/13-13:37:17.230 3a3 Delete type=2 #480
+2021/05/13-13:37:17.230 3a3 Delete type=2 #484
+2021/05/13-13:37:17.230 3a3 Delete type=2 #485
+2021/05/13-13:37:17.230 3a3 Delete type=2 #483
+2021/05/13-13:37:17.230 3a3 Delete type=2 #477
+2021/05/13-13:37:17.760 3a3 Level-0 table #493: started
+2021/05/13-13:37:17.811 bce Current memtable full; waiting...
+2021/05/13-13:37:17.868 3a3 Level-0 table #493: 1962770 bytes OK
+2021/05/13-13:37:17.942 3a3 Delete type=0 #481
+2021/05/13-13:37:17.944 3a3 Level-0 table #495: started
+2021/05/13-13:37:18.182 3a3 Level-0 table #495: 2026910 bytes OK
+2021/05/13-13:37:18.506 3a3 Delete type=0 #492
+2021/05/13-13:37:18.650 3a3 Compacting 1@1 + 5@2 files
+2021/05/13-13:37:19.167 3a3 Generated table #496@1: 2809 keys, 2137742 bytes
+2021/05/13-13:37:19.863 3a3 Generated table #497@1: 12336 keys, 2188057 bytes
+2021/05/13-13:37:20.072 3a3 Generated table #498@1: 990 keys, 2128917 bytes
+2021/05/13-13:37:20.310 3a3 Generated table #499@1: 8342 keys, 2184069 bytes
+2021/05/13-13:37:20.481 3a3 Generated table #500@1: 1420 keys, 270866 bytes
+2021/05/13-13:37:20.481 3a3 Compacted 1@1 + 5@2 files => 8909651 bytes
+2021/05/13-13:37:20.742 3a3 compacted to: files[ 1 0 5 0 0 0 0 ]
+2021/05/13-13:37:20.743 3a3 Delete type=2 #488
+2021/05/13-13:37:20.743 3a3 Delete type=2 #490
+2021/05/13-13:37:20.743 3a3 Delete type=2 #493
+2021/05/13-13:37:20.743 3a3 Delete type=2 #491
+2021/05/13-13:37:20.743 3a3 Delete type=2 #489
+2021/05/13-13:37:20.743 3a3 Delete type=2 #487
+2021/05/13-14:00:53.037 3a3 Moved #495 to level-1 2026910 bytes OK: files[ 0 1 5 0 0 0 0 ]
+2021/05/13-14:00:54.161 3a3 Compacting 1@1 + 2@2 files
+2021/05/13-14:00:54.225 de7 Current memtable full; waiting...
+2021/05/13-14:00:54.242 3a3 Generated table #501@1: 4242 keys, 2127463 bytes
+2021/05/13-14:00:54.242 3a3 Level-0 table #503: started
+2021/05/13-14:00:54.331 3a3 Level-0 table #503: 1958212 bytes OK
+2021/05/13-14:00:54.394 3a3 Delete type=0 #494
+2021/05/13-14:00:54.396 3a3 Level-0 table #506: started
+2021/05/13-14:00:54.506 3a3 Level-0 table #506: 2031743 bytes OK
+2021/05/13-14:00:54.681 3a3 Delete type=0 #502
+2021/05/13-14:00:54.806 3a3 Generated table #504@1: 9158 keys, 2169638 bytes
+2021/05/13-14:00:54.913 3a3 Generated table #507@1: 3745 keys, 1038690 bytes
+2021/05/13-14:00:54.913 3a3 Compacted 1@1 + 2@2 files => 5335791 bytes
+2021/05/13-14:00:55.032 3a3 compacted to: files[ 2 0 6 0 0 0 0 ]
+2021/05/13-14:00:55.032 3a3 Delete type=2 #496
+2021/05/13-14:00:55.032 3a3 Delete type=2 #495
+2021/05/13-14:00:55.032 3a3 Delete type=2 #497
+2021/05/13-14:04:50.173 3a3 Compacting 2@0 + 0@1 files
+2021/05/13-14:04:50.451 3a3 Generated table #508@0: 8416 keys, 2136204 bytes
+2021/05/13-14:04:50.678 3a3 Generated table #509@0: 2600 keys, 1391996 bytes
+2021/05/13-14:04:50.678 3a3 Compacted 2@0 + 0@1 files => 3528200 bytes
+2021/05/13-14:04:51.118 3a3 compacted to: files[ 0 2 6 0 0 0 0 ]
+2021/05/13-14:04:51.119 3a3 Delete type=2 #506
+2021/05/13-14:04:51.119 3a3 Delete type=2 #503

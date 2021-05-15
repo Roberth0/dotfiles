@@ -1,0 +1,52 @@
+2021/05/12-22:00:28.153 22de Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/12-22:00:28.153 22de Recovering log #39
+2021/05/12-22:00:28.153 22de Reusing old log /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000039.log 
+2021/05/12-22:00:39.750 249a Level-0 table #45: started
+2021/05/12-22:00:39.932 249a Level-0 table #45: 2664557 bytes OK
+2021/05/12-22:00:40.035 249a Delete type=0 #39
+2021/05/12-22:01:48.928 249e Compacting 1@1 + 1@2 files
+2021/05/12-22:01:49.620 249e Generated table #46@1: 1119 keys, 972999 bytes
+2021/05/12-22:01:49.620 249e Compacted 1@1 + 1@2 files => 972999 bytes
+2021/05/12-22:01:49.940 249e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-22:01:49.940 249e Delete type=2 #42
+2021/05/12-22:01:49.940 249e Delete type=2 #45
+2021/05/12-22:01:51.056 222a Level-0 table #48: started
+2021/05/12-22:01:51.174 222a Level-0 table #48: 2689762 bytes OK
+2021/05/12-22:01:51.282 222a Delete type=0 #44
+2021/05/12-22:01:52.491 222a Compacting 1@1 + 1@2 files
+2021/05/12-22:01:52.655 222a Generated table #49@1: 1134 keys, 980164 bytes
+2021/05/12-22:01:52.655 222a Compacted 1@1 + 1@2 files => 980164 bytes
+2021/05/12-22:01:53.119 222a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-22:01:53.119 222a Delete type=2 #46
+2021/05/12-22:01:53.119 222a Delete type=2 #48
+2021/05/12-22:08:06.157 26dc Level-0 table #51: started
+2021/05/12-22:08:06.638 26dc Level-0 table #51: 2674518 bytes OK
+2021/05/12-22:08:06.826 26dc Delete type=0 #47
+2021/05/13-00:04:13.531 49fe Compacting 1@1 + 1@2 files
+2021/05/13-00:04:13.619 49fe Generated table #52@1: 1149 keys, 989279 bytes
+2021/05/13-00:04:13.619 49fe Compacted 1@1 + 1@2 files => 989279 bytes
+2021/05/13-00:04:13.709 49fe compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-00:04:13.709 49fe Delete type=2 #51
+2021/05/13-00:04:13.709 49fe Delete type=2 #49
+2021/05/13-00:04:14.650 8415 Level-0 table #54: started
+2021/05/13-00:04:14.757 8415 Level-0 table #54: 2662187 bytes OK
+2021/05/13-00:04:14.871 8415 Delete type=0 #50
+2021/05/13-00:10:03.639 85f4 Level-0 table #56: started
+2021/05/13-00:10:03.676 85f4 Level-0 table #56: 262555 bytes OK
+2021/05/13-00:10:03.727 85f4 Delete type=0 #53
+2021/05/13-00:10:03.727 85f4 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01 \x03\x00\x80\xf0G`Mw\xc2\x00\x01$\x005\x002\x009\x00f\x00d\x00d\x000\x005\x00-\x002\x007\x00b\x001\x00-\x004\x00b\x000\x00f\x00-\x00a\x004\x00c\x00d\x00-\x00b\x00a\x00d\x00d\x001\x00e\x009\x004\x003\x000\x001\x008' @ 82492 : 1
+2021/05/13-00:10:03.727 85f4 Compacting 1@0 + 1@1 files
+2021/05/13-00:10:03.799 85f4 Generated table #57@0: 3013 keys, 971906 bytes
+2021/05/13-00:10:03.799 85f4 Compacted 1@0 + 1@1 files => 971906 bytes
+2021/05/13-00:10:03.865 85f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/13-00:10:03.866 85f4 Delete type=2 #56
+2021/05/13-00:10:03.866 85f4 Delete type=2 #54
+2021/05/13-00:10:03.867 85f4 Manual compaction at level-0 from '\x00\x03\x01 \x03\x00\x80\xf0G`Mw\xc2\x00\x01$\x005\x002\x009\x00f\x00d\x00d\x000\x005\x00-\x002\x007\x00b\x001\x00-\x004\x00b\x000\x00f\x00-\x00a\x004\x00c\x00d\x00-\x00b\x00a\x00d\x00d\x001\x00e\x009\x004\x003\x000\x001\x008' @ 82492 : 1 .. (end); will stop at (end)
+2021/05/13-00:10:03.867 85f4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01 \x03\x00\x00\xeb4\x8b3w\xc2\x00\x01\xba\x01\x00S\x00P\x00O\x00_\x00O\x00T\x00l\x00l\x00M\x00m\x00M\x004\x00Z\x00j\x00Q\x00t\x00O\x00G\x00I\x004\x00Z\x00i\x000\x000\x00M\x002\x00N\x00j\x00L\x00T\x00k\x00y\x00M\x002\x00E\x00t\x00Z\x00j\x00B\x00m\x00N\x00G\x00E\x00y\x00Z\x00j\x00c\x002\x00M\x00j\x00k\x001\x00L\x00D\x00V\x00i\x00Z\x00T\x00A\x004\x00Z\x00m\x00E\x004\x00L\x00W\x00U\x00z\x00N\x00j\x00Y\x00t\x00N\x00G\x00M\x005\x00O\x00C\x000\x004\x00N\x00j\x00k\x004\x00L\x00T\x00d\x00j\x00M\x00W\x00Z\x00m\x00M\x00j\x00M\x001\x00N\x00z\x00F\x00i\x00N\x00y\x00w\x00y\x00M\x00W\x00Y\x005\x00Y\x00W\x00E\x000\x00M\x00i\x001\x00j\x00O\x00D\x00k\x00w\x00L\x00T\x00R\x00k\x00N\x00z\x00I\x00t\x00Y\x00m\x00I\x003\x00N\x00i\x000\x00y\x00Z\x00m\x00E\x001\x00O\x00D\x00U\x00x\x00M\x00m\x00Z\x00j\x00O\x00T\x00E\x00_\x000\x001\x00X\x00O\x005\x00Y\x00S\x007\x00Z\x00Y\x00Z\x003\x00O\x00C\x00O\x00X\x00Y\x00X\x00E\x00J\x00C\x00Y\x00R\x00K\x00S\x00F\x006\x00K\x00D\x00O\x00I\x00H\x00I\x00O' @ 81105 : 1
+2021/05/13-00:10:03.867 85f4 Compacting 1@1 + 1@2 files
+2021/05/13-00:10:03.922 85f4 Generated table #58@1: 1078 keys, 959326 bytes
+2021/05/13-00:10:03.922 85f4 Compacted 1@1 + 1@2 files => 959326 bytes
+2021/05/13-00:10:03.973 85f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-00:10:03.973 85f4 Delete type=2 #57
+2021/05/13-00:10:03.973 85f4 Delete type=2 #52
+2021/05/13-00:10:03.974 85f4 Manual compaction at level-1 from '\x00\x03\x01 \x03\x00\x00\xeb4\x8b3w\xc2\x00\x01\xba\x01\x00S\x00P\x00O\x00_\x00O\x00T\x00l\x00l\x00M\x00m\x00M\x004\x00Z\x00j\x00Q\x00t\x00O\x00G\x00I\x004\x00Z\x00i\x000\x000\x00M\x002\x00N\x00j\x00L\x00T\x00k\x00y\x00M\x002\x00E\x00t\x00Z\x00j\x00B\x00m\x00N\x00G\x00E\x00y\x00Z\x00j\x00c\x002\x00M\x00j\x00k\x001\x00L\x00D\x00V\x00i\x00Z\x00T\x00A\x004\x00Z\x00m\x00E\x004\x00L\x00W\x00U\x00z\x00N\x00j\x00Y\x00t\x00N\x00G\x00M\x005\x00O\x00C\x000\x004\x00N\x00j\x00k\x004\x00L\x00T\x00d\x00j\x00M\x00W\x00Z\x00m\x00M\x00j\x00M\x001\x00N\x00z\x00F\x00i\x00N\x00y\x00w\x00y\x00M\x00W\x00Y\x005\x00Y\x00W\x00E\x000\x00M\x00i\x001\x00j\x00O\x00D\x00k\x00w\x00L\x00T\x00R\x00k\x00N\x00z\x00I\x00t\x00Y\x00m\x00I\x003\x00N\x00i\x000\x00y\x00Z\x00m\x00E\x001\x00O\x00D\x00U\x00x\x00M\x00m\x00Z\x00j\x00O\x00T\x00E\x00_\x000\x001\x00X\x00O\x005\x00Y\x00S\x007\x00Z\x00Y\x00Z\x003\x00O\x00C\x00O\x00X\x00Y\x00X\x00E\x00J\x00C\x00Y\x00R\x00K\x00S\x00F\x006\x00K\x00D\x00O\x00I\x00H\x00I\x00O' @ 81105 : 1 .. (end); will stop at (end)

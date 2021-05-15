@@ -1,0 +1,342 @@
+10:19:32 PM.766: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+10:19:32 PM.766: CPU Speed: 2800.000MHz
+10:19:32 PM.767: Physical Cores: 4, Logical Cores: 8
+10:19:32 PM.767: Physical Memory: 15888MB Total, 9472MB Free
+10:19:32 PM.767: Kernel Version: Linux 5.12.2-arch1-1
+10:19:32 PM.767: Distribution: "Arch Linux" Unknown
+10:19:32 PM.767: Session Type: tty
+10:19:32 PM.768: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.11
+10:19:32 PM.769: Portable mode: false
+10:19:32 PM.963: OBS 26.1.2-2 (linux)
+10:19:32 PM.964: ---------------------------------
+10:19:32 PM.964: ---------------------------------
+10:19:32 PM.964: audio settings reset:
+10:19:32 PM.964: 	samples per sec: 48000
+10:19:32 PM.964: 	speakers:        2
+10:19:32 PM.993: ---------------------------------
+10:19:32 PM.993: Initializing OpenGL...
+10:19:33 PM.137: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 630 (KBL GT2)
+10:19:33 PM.137: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.0, shading language 4.60
+10:19:33 PM.234: ---------------------------------
+10:19:33 PM.234: video settings reset:
+10:19:33 PM.234: 	base resolution:   1920x1080
+10:19:33 PM.234: 	output resolution: 1280x720
+10:19:33 PM.234: 	downscale filter:  Bicubic
+10:19:33 PM.234: 	fps:               30/1
+10:19:33 PM.234: 	format:            NV12
+10:19:33 PM.234: 	YUV mode:          709/Partial
+10:19:33 PM.234: NV12 texture support not available
+10:19:33 PM.239: Audio monitoring device:
+10:19:33 PM.239: 	name: Default
+10:19:33 PM.239: 	id: default
+10:19:33 PM.239: ---------------------------------
+10:19:33 PM.256: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:19:33 PM.259: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+10:19:33 PM.405: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:19:33 PM.405: No blackmagic support
+10:19:33 PM.439: v4l2loopback not installed, virtual camera disabled
+10:19:33 PM.821: NVENC supported
+10:19:33 PM.821: FFMPEG VAAPI supported
+10:19:33 PM.827: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+10:19:33 PM.827: 
+10:19:33 PM.827: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+10:19:33 PM.959: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+10:19:33 PM.959: 
+10:19:33 PM.959: Couldn't find VLC installation, VLC video source disabled
+10:19:33 PM.959: ---------------------------------
+10:19:33 PM.959:   Loaded Modules:
+10:19:33 PM.959:     vlc-video.so
+10:19:33 PM.959:     text-freetype2.so
+10:19:33 PM.959:     rtmp-services.so
+10:19:33 PM.959:     obs-x264.so
+10:19:33 PM.959:     obs-transitions.so
+10:19:33 PM.959:     obs-outputs.so
+10:19:33 PM.959:     obs-filters.so
+10:19:33 PM.959:     obs-ffmpeg.so
+10:19:33 PM.959:     linux-v4l2.so
+10:19:33 PM.959:     linux-pulseaudio.so
+10:19:33 PM.959:     linux-jack.so
+10:19:33 PM.959:     linux-decklink.so
+10:19:33 PM.959:     linux-capture.so
+10:19:33 PM.959:     linux-alsa.so
+10:19:33 PM.959:     image-source.so
+10:19:33 PM.959:     frontend-tools.so
+10:19:33 PM.959:     decklink-ouput-ui.so
+10:19:33 PM.959:     decklink-captions.so
+10:19:33 PM.959: ---------------------------------
+10:19:33 PM.983: ==== Startup complete ===============================================
+10:19:34 PM.066: All scene data cleared
+10:19:34 PM.066: ------------------------------------------------
+10:19:34 PM.082: v4l2-input: Start capture from /dev/video1
+10:19:34 PM.218: v4l2-input: Input: 0
+10:19:34 PM.226: v4l2-input: Resolution: 1280x720
+10:19:34 PM.226: v4l2-input: Pixelformat: YUYV
+10:19:34 PM.226: v4l2-input: Linesize: 2560 Bytes
+10:19:34 PM.226: v4l2-input: Framerate: 10.00 fps
+10:19:34 PM.281: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:19:34 PM.282: pulse-input: Server name: 'pulseaudio 14.2'
+10:19:34 PM.283: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+10:19:34 PM.283: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+10:19:34 PM.283: Switched to scene 'Scene'
+10:19:34 PM.283: ------------------------------------------------
+10:19:34 PM.283: Loaded scenes:
+10:19:34 PM.283: - scene 'Scene':
+10:19:34 PM.283:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+10:19:34 PM.283:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+10:19:34 PM.283:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+10:19:34 PM.283: ------------------------------------------------
+10:19:34 PM.824: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Output Capture (PulseAudio))
+10:19:34 PM.824: 
+10:19:39 PM.978: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+10:19:40 PM.004: v4l2-input: Stopped capture after 51 frames
+10:19:42 PM.518: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+10:19:47 PM.341: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:19:47 PM.346: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+10:19:47 PM.373: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:20:15 PM.604: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+10:20:21 PM.062: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:20:21 PM.066: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+10:20:21 PM.105: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:20:41 PM.573: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+10:20:43 PM.876: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:20:43 PM.876: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:20:43 PM.876: 	class: microsoft teams - preview
+10:20:43 PM.876: 	Bit depth: 24
+10:20:43 PM.876: 	Found proper GLXFBConfig (in 392): yes
+10:20:43 PM.876: 
+10:20:43 PM.889: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:20:43 PM.889: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:20:43 PM.889: 	class: microsoft teams - preview
+10:20:43 PM.889: 	Bit depth: 24
+10:20:43 PM.889: 	Found proper GLXFBConfig (in 392): yes
+10:20:43 PM.889: 
+10:20:46 PM.358: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:20:46 PM.358: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:20:46 PM.358: 	class: microsoft teams - preview
+10:20:46 PM.358: 	Bit depth: 24
+10:20:46 PM.358: 	Found proper GLXFBConfig (in 392): yes
+10:20:46 PM.358: 
+10:20:46 PM.376: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:20:46 PM.376: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:20:46 PM.376: 	class: microsoft teams - preview
+10:20:46 PM.376: 	Bit depth: 24
+10:20:46 PM.376: 	Found proper GLXFBConfig (in 392): yes
+10:20:46 PM.376: 
+10:20:50 PM.674: ---------------------------------
+10:20:50 PM.675: [NVENC encoder: 'simple_h264_recording'] settings:
+10:20:50 PM.675: 	rate_control: CQP
+10:20:50 PM.675: 	bitrate:      0
+10:20:50 PM.675: 	cqp:          21
+10:20:50 PM.675: 	keyint:       250
+10:20:50 PM.675: 	preset:       hq
+10:20:50 PM.675: 	profile:      high
+10:20:50 PM.675: 	width:        1280
+10:20:50 PM.675: 	height:       720
+10:20:50 PM.675: 	2-pass:       false
+10:20:50 PM.675: 	b-frames:     2
+10:20:50 PM.675: 	GPU:          0
+10:20:50 PM.675: 
+10:20:51 PM.351: ---------------------------------
+10:20:51 PM.351: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+10:20:51 PM.351: 
+10:20:51 PM.412: ==== Recording Start ===============================================
+10:20:51 PM.412: [ffmpeg muxer: 'simple_file_output'] Writing file '/Data/Videos/2021-05-12 22-20-50.mkv'...
+10:20:52 PM.750: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:20:52 PM.750: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:20:52 PM.750: 	class: microsoft teams - preview
+10:20:52 PM.750: 	Bit depth: 24
+10:20:52 PM.750: 	Found proper GLXFBConfig (in 392): yes
+10:20:52 PM.750: 
+10:24:41 PM.656: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:24:41 PM.656: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:24:41 PM.656: 	class: microsoft teams - preview
+10:24:41 PM.656: 	Bit depth: 24
+10:24:41 PM.656: 	Found proper GLXFBConfig (in 392): yes
+10:24:41 PM.656: 
+10:24:47 PM.421: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:24:47 PM.421: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:24:47 PM.421: 	class: microsoft teams - preview
+10:24:47 PM.421: 	Bit depth: 24
+10:24:47 PM.421: 	Found proper GLXFBConfig (in 392): yes
+10:24:47 PM.421: 
+10:24:47 PM.445: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:24:47 PM.445: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:24:47 PM.445: 	class: microsoft teams - preview
+10:24:47 PM.445: 	Bit depth: 24
+10:24:47 PM.445: 	Found proper GLXFBConfig (in 392): yes
+10:24:47 PM.445: 
+10:37:02 PM.723: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:37:02 PM.723: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:37:02 PM.723: 	class: microsoft teams - preview
+10:37:02 PM.723: 	Bit depth: 24
+10:37:02 PM.723: 	Found proper GLXFBConfig (in 392): yes
+10:37:02 PM.723: 
+10:37:02 PM.747: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:37:02 PM.747: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:37:02 PM.747: 	class: microsoft teams - preview
+10:37:02 PM.747: 	Bit depth: 24
+10:37:02 PM.747: 	Found proper GLXFBConfig (in 392): yes
+10:37:02 PM.747: 
+10:39:20 PM.390: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:39:20 PM.390: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:39:20 PM.390: 	class: microsoft teams - preview
+10:39:20 PM.390: 	Bit depth: 24
+10:39:20 PM.390: 	Found proper GLXFBConfig (in 392): yes
+10:39:20 PM.390: 
+10:39:29 PM.185: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:39:29 PM.185: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:39:29 PM.185: 	class: microsoft teams - preview
+10:39:29 PM.185: 	Bit depth: 24
+10:39:29 PM.185: 	Found proper GLXFBConfig (in 392): yes
+10:39:29 PM.185: 
+10:39:29 PM.214: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:39:29 PM.214: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:39:29 PM.214: 	class: microsoft teams - preview
+10:39:29 PM.214: 	Bit depth: 24
+10:39:29 PM.214: 	Found proper GLXFBConfig (in 392): yes
+10:39:29 PM.214: 
+10:40:13 PM.315: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:13 PM.315: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:13 PM.315: 	class: microsoft teams - preview
+10:40:13 PM.315: 	Bit depth: 24
+10:40:13 PM.315: 	Found proper GLXFBConfig (in 392): yes
+10:40:13 PM.315: 
+10:40:17 PM.685: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:17 PM.685: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:17 PM.685: 	class: microsoft teams - preview
+10:40:17 PM.685: 	Bit depth: 24
+10:40:17 PM.685: 	Found proper GLXFBConfig (in 392): yes
+10:40:17 PM.685: 
+10:40:17 PM.711: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:17 PM.711: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:17 PM.711: 	class: microsoft teams - preview
+10:40:17 PM.711: 	Bit depth: 24
+10:40:17 PM.711: 	Found proper GLXFBConfig (in 392): yes
+10:40:17 PM.711: 
+10:40:32 PM.649: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:32 PM.649: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:32 PM.649: 	class: microsoft teams - preview
+10:40:32 PM.649: 	Bit depth: 24
+10:40:32 PM.649: 	Found proper GLXFBConfig (in 392): yes
+10:40:32 PM.649: 
+10:40:34 PM.052: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:34 PM.052: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:34 PM.052: 	class: microsoft teams - preview
+10:40:34 PM.052: 	Bit depth: 24
+10:40:34 PM.052: 	Found proper GLXFBConfig (in 392): yes
+10:40:34 PM.052: 
+10:40:57 PM.957: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:40:57 PM.957: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:40:57 PM.957: 	class: microsoft teams - preview
+10:40:57 PM.957: 	Bit depth: 24
+10:40:57 PM.957: 	Found proper GLXFBConfig (in 392): yes
+10:40:57 PM.957: 
+10:41:13 PM.987: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:13 PM.987: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:13 PM.987: 	class: microsoft teams - preview
+10:41:13 PM.987: 	Bit depth: 24
+10:41:13 PM.987: 	Found proper GLXFBConfig (in 392): yes
+10:41:13 PM.987: 
+10:41:31 PM.815: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:31 PM.815: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:31 PM.815: 	class: microsoft teams - preview
+10:41:31 PM.815: 	Bit depth: 24
+10:41:31 PM.815: 	Found proper GLXFBConfig (in 392): yes
+10:41:31 PM.815: 
+10:41:34 PM.052: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:34 PM.052: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:34 PM.052: 	class: microsoft teams - preview
+10:41:34 PM.052: 	Bit depth: 24
+10:41:34 PM.052: 	Found proper GLXFBConfig (in 392): yes
+10:41:34 PM.052: 
+10:41:37 PM.355: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:37 PM.355: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:37 PM.355: 	class: microsoft teams - preview
+10:41:37 PM.355: 	Bit depth: 24
+10:41:37 PM.355: 	Found proper GLXFBConfig (in 392): yes
+10:41:37 PM.355: 
+10:41:41 PM.049: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:41 PM.049: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:41 PM.049: 	class: microsoft teams - preview
+10:41:41 PM.049: 	Bit depth: 24
+10:41:41 PM.049: 	Found proper GLXFBConfig (in 392): yes
+10:41:41 PM.049: 
+10:41:46 PM.997: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:46 PM.997: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:46 PM.997: 	class: microsoft teams - preview
+10:41:46 PM.997: 	Bit depth: 24
+10:41:46 PM.997: 	Found proper GLXFBConfig (in 392): yes
+10:41:46 PM.997: 
+10:41:51 PM.083: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:51 PM.083: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:51 PM.083: 	class: microsoft teams - preview
+10:41:51 PM.083: 	Bit depth: 24
+10:41:51 PM.083: 	Found proper GLXFBConfig (in 392): yes
+10:41:51 PM.083: 
+10:41:51 PM.114: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:41:51 PM.114: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:41:51 PM.114: 	class: microsoft teams - preview
+10:41:51 PM.114: 	Bit depth: 24
+10:41:51 PM.114: 	Found proper GLXFBConfig (in 392): yes
+10:41:51 PM.114: 
+10:43:45 PM.883: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:43:45 PM.883: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:43:45 PM.883: 	class: microsoft teams - preview
+10:43:45 PM.883: 	Bit depth: 24
+10:43:45 PM.883: 	Found proper GLXFBConfig (in 392): yes
+10:43:45 PM.883: 
+10:43:57 PM.151: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:43:57 PM.151: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:43:57 PM.151: 	class: microsoft teams - preview
+10:43:57 PM.151: 	Bit depth: 24
+10:43:57 PM.151: 	Found proper GLXFBConfig (in 392): yes
+10:43:57 PM.151: 
+10:43:58 PM.248: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:43:58 PM.248: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:43:58 PM.248: 	class: microsoft teams - preview
+10:43:58 PM.248: 	Bit depth: 24
+10:43:58 PM.248: 	Found proper GLXFBConfig (in 392): yes
+10:43:58 PM.248: 
+10:43:58 PM.274: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:43:58 PM.274: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:43:58 PM.274: 	class: microsoft teams - preview
+10:43:58 PM.274: 	Bit depth: 24
+10:43:58 PM.274: 	Found proper GLXFBConfig (in 392): yes
+10:43:58 PM.274: 
+10:43:59 PM.147: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:43:59 PM.147: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:43:59 PM.147: 	class: microsoft teams - preview
+10:43:59 PM.147: 	Bit depth: 24
+10:43:59 PM.147: 	Found proper GLXFBConfig (in 392): yes
+10:43:59 PM.147: 
+10:44:52 PM.487: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:44:52 PM.487: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:44:52 PM.487: 	class: microsoft teams - preview
+10:44:52 PM.487: 	Bit depth: 24
+10:44:52 PM.487: 	Found proper GLXFBConfig (in 392): yes
+10:44:52 PM.487: 
+10:48:00 PM.866: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:48:00 PM.866: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:48:00 PM.866: 	class: microsoft teams - preview
+10:48:00 PM.866: 	Bit depth: 24
+10:48:00 PM.866: 	Found proper GLXFBConfig (in 392): yes
+10:48:00 PM.866: 
+10:48:00 PM.891: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+10:48:00 PM.891: 	title: Revisión Evento Día Mundial de las Telecomunicaciones (Meeting) | Microsoft Teams
+10:48:00 PM.891: 	class: microsoft teams - preview
+10:48:00 PM.891: 	Bit depth: 24
+10:48:00 PM.891: 	Found proper GLXFBConfig (in 392): yes
+10:48:00 PM.891: 
+12:03:02 AM.249: Last log entry repeated for 113 more lines
+12:03:02 AM.250: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:03:02 AM.250: 	title: Revisión Evento Día Mundial de las Telecomunicaciones | Microsoft Teams
+12:03:02 AM.250: 	class: microsoft teams - preview
+12:03:02 AM.250: 	Bit depth: 24
+12:03:02 AM.250: 	Found proper GLXFBConfig (in 392): yes
+12:03:02 AM.250: 
+12:05:45 AM.815: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:05:45 AM.815: 	title: ALEJANDRA MABEL, +2 | Microsoft Teams
+12:05:45 AM.815: 	class: microsoft teams - preview
+12:05:45 AM.815: 	Bit depth: 24
+12:05:45 AM.815: 	Found proper GLXFBConfig (in 392): yes
+12:05:45 AM.815: 

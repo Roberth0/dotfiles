@@ -1,0 +1,15 @@
+2021/05/13-13:59:30.451 ffc Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-13:59:30.451 ffc Recovering log #22
+2021/05/13-13:59:30.451 ffc Reusing old log /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000022.log 
+2021/05/13-13:59:39.738 f93 Level-0 table #27: started
+2021/05/13-13:59:40.226 f93 Level-0 table #27: 328299 bytes OK
+2021/05/13-13:59:40.592 f93 Delete type=0 #22
+2021/05/13-13:59:40.592 f93 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-13:59:40.592 f93 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01%\x008\x00c\x001\x00d\x000\x009\x00c\x007\x00d\x008\x003\x004\x008\x008\x002\x003\x00f\x003\x00b\x002\x002\x007\x00c\x004\x008\x007\x00c\x000\x006\x002\x00d\x006\x00_\x006\x00:\x000\x000' @ 2359 : 1
+2021/05/13-13:59:40.592 f93 Compacting 1@1 + 1@2 files
+2021/05/13-13:59:40.897 f93 Generated table #28@1: 293 keys, 193979 bytes
+2021/05/13-13:59:40.897 f93 Compacted 1@1 + 1@2 files => 193979 bytes
+2021/05/13-13:59:41.323 f93 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-13:59:41.323 f93 Delete type=2 #27
+2021/05/13-13:59:41.323 f93 Delete type=2 #24
+2021/05/13-13:59:41.324 fc1 Manual compaction at level-1 from '\x00\x01\x03\x02\x01%\x008\x00c\x001\x00d\x000\x009\x00c\x007\x00d\x008\x003\x004\x008\x008\x002\x003\x00f\x003\x00b\x002\x002\x007\x00c\x004\x008\x007\x00c\x000\x006\x002\x00d\x006\x00_\x006\x00:\x000\x000' @ 2359 : 1 .. (end); will stop at (end)

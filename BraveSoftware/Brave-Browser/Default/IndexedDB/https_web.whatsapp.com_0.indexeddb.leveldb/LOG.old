@@ -1,0 +1,15 @@
+2021/05/13-13:07:00.015 481 Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-13:07:00.015 481 Recovering log #10
+2021/05/13-13:07:00.016 481 Reusing old log /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2021/05/13-13:37:13.864 b62 Level-0 table #15: started
+2021/05/13-13:37:13.942 b62 Level-0 table #15: 405193 bytes OK
+2021/05/13-13:37:13.994 b62 Delete type=0 #10
+2021/05/13-13:37:13.994 b62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-13:37:13.995 b62 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x1f\x03\x00P\xb3\x08o\x96wB\x00\x01,\x00r\x004\x00t\x00M\x00z\x000\x00U\x00B\x00j\x00t\x00b\x00+\x00l\x002\x00v\x00b\x00y\x00I\x00P\x00Y\x00y\x00S\x00D\x00V\x00y\x00r\x00A\x00M\x00a\x00k\x00f\x00Y\x00J\x00r\x00D\x00o\x009\x00l\x00S\x00g\x00r\x00v\x00g\x00=' @ 103350 : 1
+2021/05/13-13:37:13.995 b62 Compacting 1@1 + 1@2 files
+2021/05/13-13:37:14.098 b62 Generated table #16@1: 21897 keys, 1015349 bytes
+2021/05/13-13:37:14.098 b62 Compacted 1@1 + 1@2 files => 1015349 bytes
+2021/05/13-13:37:14.148 b62 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-13:37:14.148 b62 Delete type=2 #12
+2021/05/13-13:37:14.148 b62 Delete type=2 #15
+2021/05/13-13:37:14.149 b62 Manual compaction at level-1 from '\x00\x03\x02\x1f\x03\x00P\xb3\x08o\x96wB\x00\x01,\x00r\x004\x00t\x00M\x00z\x000\x00U\x00B\x00j\x00t\x00b\x00+\x00l\x002\x00v\x00b\x00y\x00I\x00P\x00Y\x00y\x00S\x00D\x00V\x00y\x00r\x00A\x00M\x00a\x00k\x00f\x00Y\x00J\x00r\x00D\x00o\x009\x00l\x00S\x00g\x00r\x00v\x00g\x00=' @ 103350 : 1 .. (end); will stop at (end)

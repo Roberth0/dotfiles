@@ -1,0 +1,21 @@
+2021/05/13-13:58:34.612 f20 Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-13:58:34.612 f20 Recovering log #55
+2021/05/13-13:58:34.612 f20 Reusing old log /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000055.log 
+2021/05/13-13:58:53.547 f93 Level-0 table #61: started
+2021/05/13-13:58:53.796 f93 Level-0 table #61: 2680034 bytes OK
+2021/05/13-13:58:53.882 f93 Delete type=0 #55
+2021/05/13-14:01:45.150 11d8 Compacting 1@1 + 1@2 files
+2021/05/13-14:01:45.234 11d8 Generated table #62@1: 1118 keys, 976142 bytes
+2021/05/13-14:01:45.234 11d8 Compacted 1@1 + 1@2 files => 976142 bytes
+2021/05/13-14:01:45.334 11d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-14:01:45.335 11d8 Delete type=2 #58
+2021/05/13-14:01:45.335 11d8 Delete type=2 #61
+2021/05/13-14:01:45.949 11d8 Level-0 table #64: started
+2021/05/13-14:01:46.056 11d8 Level-0 table #64: 2690583 bytes OK
+2021/05/13-14:01:46.193 11d8 Delete type=0 #60
+2021/05/13-14:03:50.193 f21 Compacting 1@1 + 1@2 files
+2021/05/13-14:03:50.726 f21 Generated table #65@1: 1132 keys, 989238 bytes
+2021/05/13-14:03:50.726 f21 Compacted 1@1 + 1@2 files => 989238 bytes
+2021/05/13-14:03:51.673 f21 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-14:03:51.674 f21 Delete type=2 #62
+2021/05/13-14:03:51.674 f21 Delete type=2 #64

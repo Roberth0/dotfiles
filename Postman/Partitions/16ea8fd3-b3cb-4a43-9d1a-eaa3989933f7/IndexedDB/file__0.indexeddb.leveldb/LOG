@@ -1,0 +1,14 @@
+2021/05/11-22:19:08.801 23a2 Reusing MANIFEST /home/itami/.config/Postman/Partitions/16ea8fd3-b3cb-4a43-9d1a-eaa3989933f7/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-22:19:08.801 23a2 Recovering log #8
+2021/05/11-22:19:08.805 23a2 Reusing old log /home/itami/.config/Postman/Partitions/16ea8fd3-b3cb-4a43-9d1a-eaa3989933f7/IndexedDB/file__0.indexeddb.leveldb/000008.log 
+2021/05/11-22:19:08.805 23a2 Delete type=2 #7
+2021/05/11-22:19:23.671 2456 Level-0 table #13: started
+2021/05/11-22:19:23.732 2456 Level-0 table #13: 767060 bytes OK
+2021/05/11-22:19:23.782 2456 Delete type=0 #8
+2021/05/11-22:19:23.783 2456 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 4314 : 1
+2021/05/11-22:19:23.783 2456 Compacting 1@0 + 1@1 files
+2021/05/11-22:19:23.826 2456 Generated table #14@0: 2126 keys, 71430 bytes
+2021/05/11-22:19:23.826 2456 Compacted 1@0 + 1@1 files => 71430 bytes
+2021/05/11-22:19:23.893 2456 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/11-22:19:23.894 2456 Delete type=2 #13
+2021/05/11-22:19:23.894 2456 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 4314 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

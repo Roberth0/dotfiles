@@ -1,0 +1,13 @@
+[2021-05-12 15:05:09.217] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-05-12 15:05:10.558] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner undefined
+[2021-05-12 15:05:10.804] [sharedprocess] [info] Extracted extension to /home/itami/.vscode-oss/extensions/.c3012407-1778-44eb-9437-81f16705cdc1: formulahendry.code-runner
+[2021-05-12 15:05:10.856] [sharedprocess] [info] Renamed to /home/itami/.vscode-oss/extensions/formulahendry.code-runner-0.11.3
+[2021-05-12 15:05:10.858] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2021-05-12 15:05:10.902] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2021-05-12 15:05:32.808] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-12 15:14:21.664] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2021-05-12 15:14:22.183] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme undefined
+[2021-05-12 15:14:22.276] [sharedprocess] [info] Extracted extension to /home/itami/.vscode-oss/extensions/.f7757081-e41a-4391-a070-d1360e353a27: zhuangtongfa.material-theme
+[2021-05-12 15:14:22.316] [sharedprocess] [info] Renamed to /home/itami/.vscode-oss/extensions/zhuangtongfa.material-theme-3.10.14
+[2021-05-12 15:14:22.319] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2021-05-12 15:14:22.360] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme

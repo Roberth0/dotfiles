@@ -1,0 +1,62 @@
+{
+   "23S4wO/a7qwMShn5JqP9FSKBzxlhG/GKe3gcLpKKHPU=": {
+      "expiry": 1643929731.730449,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612393731.73045
+   },
+   "6AuoDPQAYGv4ILImJRaOGSSYyTGI96GCVZLOChgNCkE=": {
+      "expiry": 1627947566.871346,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612395566.87135
+   },
+   "AUZVVbFrGQtNk9gKIJeseeR07Afq6mwL/5l72jB314s=": {
+      "expiry": 1643943882.054318,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612407882.054322
+   },
+   "F7/+zp5vrnMGpacwWTYm/zH56F6WNWsTcuV2GLAD0v8=": {
+      "expiry": 1643944227.282293,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612408227.282297
+   },
+   "LS4ASTS71yuwTFQrlGTRHt5Nq6TbJB67PVAxTUkWC6c=": {
+      "expiry": 1627947572.281817,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612395572.281822
+   },
+   "LcPeqUXawmVgK/diiebuXnMzcB0UPfkmSdWsHatPm6k=": {
+      "expiry": 1627945753.634802,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612393753.634807
+   },
+   "OJDDXdRlpUypduIFOsKiSHyYML6HTE+r+A/jrMTxd80=": {
+      "expiry": 1643944713.991828,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612408713.991833
+   },
+   "U9QXZJXIzRP2LGdfudDOsYtXOXx3P6Wdu9xTnTThZPU=": {
+      "expiry": 1627952800.19326,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612400800.193264
+   },
+   "nCng6+14XuXyq8k7pyRgQnADsCPMnCFqSyib8iAakOM=": {
+      "expiry": 1627947735.764167,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612395735.764171
+   },
+   "wmV7bNCcLePq9vG+Xr4n8V+40cbB6ldLX/j7kalDLjk=": {
+      "expiry": 1643929728.431522,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1612393728.431529
+   }
+}

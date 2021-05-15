@@ -1,0 +1,26 @@
+2021/05/12-16:32:16.130 9a5a Reusing MANIFEST /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/05/12-16:32:16.131 9a5a Recovering log #27
+2021/05/12-16:32:16.131 9a5a Reusing old log /home/itami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/file__0.indexeddb.leveldb/000027.log 
+2021/05/12-16:42:40.148 9d99 Level-0 table #32: started
+2021/05/12-16:42:40.511 9d99 Level-0 table #32: 967 bytes OK
+2021/05/12-16:42:40.847 9d99 Delete type=0 #27
+2021/05/12-16:42:40.847 9d99 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/12-16:42:42.153 9d99 Level-0 table #34: started
+2021/05/12-16:42:42.299 9d99 Level-0 table #34: 218 bytes OK
+2021/05/12-16:42:42.350 9d99 Delete type=0 #31
+2021/05/12-16:42:42.350 9d99 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 147 : 0
+2021/05/12-16:42:42.350 9d99 Compacting 1@0 + 1@1 files
+2021/05/12-16:42:42.384 9d99 Generated table #35@0: 19 keys, 439 bytes
+2021/05/12-16:42:42.384 9d99 Compacted 1@0 + 1@1 files => 439 bytes
+2021/05/12-16:42:42.433 9d99 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/12-16:42:42.434 9d99 Delete type=2 #34
+2021/05/12-16:42:42.434 9d99 Delete type=2 #32
+2021/05/12-16:42:42.434 9d99 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 147 : 0 .. (end); will stop at (end)
+2021/05/12-16:42:42.434 9d99 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x09\x00f\x00i\x00l\x00e\x00_\x00_\x000\x00@\x001\x06\x00m\x00y\x00b\x00a\x00s\x00e' @ 127 : 0
+2021/05/12-16:42:42.434 9d99 Compacting 1@1 + 1@2 files
+2021/05/12-16:42:42.467 9d99 Generated table #36@1: 8 keys, 322 bytes
+2021/05/12-16:42:42.467 9d99 Compacted 1@1 + 1@2 files => 322 bytes
+2021/05/12-16:42:42.518 9d99 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-16:42:42.518 9d99 Delete type=2 #29
+2021/05/12-16:42:42.518 9d99 Delete type=2 #35
+2021/05/12-16:42:42.518 9d99 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x09\x00f\x00i\x00l\x00e\x00_\x00_\x000\x00@\x001\x06\x00m\x00y\x00b\x00a\x00s\x00e' @ 127 : 0 .. (end); will stop at (end)

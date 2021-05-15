@@ -1,0 +1,23 @@
+2021/05/13-12:11:00.356 824 Reusing MANIFEST /home/itami/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-12:11:00.356 824 Recovering log #441
+2021/05/13-12:11:00.968 824 Reusing old log /home/itami/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000441.log 
+2021/05/13-12:13:57.434 978 Level-0 table #449: started
+2021/05/13-12:13:57.488 824 Current memtable full; waiting...
+2021/05/13-12:13:57.522 978 Level-0 table #449: 1861028 bytes OK
+2021/05/13-12:13:57.584 978 Delete type=0 #441
+2021/05/13-12:13:57.585 978 Level-0 table #451: started
+2021/05/13-12:13:57.686 978 Level-0 table #451: 2026708 bytes OK
+2021/05/13-12:13:58.137 978 Delete type=0 #448
+2021/05/13-12:15:07.022 978 Compacting 1@1 + 4@2 files
+2021/05/13-12:15:07.342 978 Generated table #452@1: 2328 keys, 2144026 bytes
+2021/05/13-12:15:07.775 978 Generated table #453@1: 12303 keys, 2204266 bytes
+2021/05/13-12:15:07.886 978 Generated table #454@1: 925 keys, 2128572 bytes
+2021/05/13-12:15:08.008 978 Generated table #455@1: 9633 keys, 2093327 bytes
+2021/05/13-12:15:08.008 978 Compacted 1@1 + 4@2 files => 8570191 bytes
+2021/05/13-12:15:08.075 978 compacted to: files[ 1 0 4 0 0 0 0 ]
+2021/05/13-12:15:08.075 978 Delete type=2 #444
+2021/05/13-12:15:08.075 978 Delete type=2 #446
+2021/05/13-12:15:08.075 978 Delete type=2 #443
+2021/05/13-12:15:08.075 978 Delete type=2 #449
+2021/05/13-12:15:08.075 978 Delete type=2 #445
+2021/05/13-12:32:41.284 978 Moved #451 to level-1 2026708 bytes OK: files[ 0 1 4 0 0 0 0 ]
