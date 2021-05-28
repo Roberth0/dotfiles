@@ -19,7 +19,7 @@ echo "::1 localhost" >> /etc/hosts
 echo "127.0.1.1 arch.localdomain  arch" >> /etc/hosts
 echo "hostname configured"
 
-pacman -S grub efibootmgr networkmanager networkmanager-applet base-devel linux-headers git alacritty
+pacman -S grub efibootmgr networkmanager network-manager-applet base-devel linux-headers git alacritty
 echo "programs installed correctly"
 systemctl enable NetworkManager
 echo "network configured"
