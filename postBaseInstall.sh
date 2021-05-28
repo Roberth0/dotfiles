@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# mkfs.ext4 /dev/sda1
+# mkfs.ext4 /dev/sda2
+# mkfs.fat -F32 /dev/sda1
 # mount /dev/sda1 /mnt
 # mkdir -p /mnt/boot/efi
 # mount /dev/sda2 /mnt/boot/efi
