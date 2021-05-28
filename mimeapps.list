@@ -1,8 +1,0 @@
-[Default Applications]
-x-scheme-handler/msteams=teams.desktop
-x-scheme-handler/tg=userapp-Telegram Desktop-2OOWX0.desktop
-x-scheme-handler/kite=kite-copilot.desktop
-x-scheme-handler/postman=Postman.desktop
-
-[Added Associations]
-x-scheme-handler/tg=userapp-Telegram Desktop-2OOWX0.desktop;
