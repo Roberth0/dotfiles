@@ -1,4 +1,14 @@
 #!/bin/bash
+
+# mkfs.ext4 /dev/sda1
+# mount /dev/sda1 /mnt
+# mkdir -p /mnt/boot/efi
+# mount /dev/sda2 /mnt/boot/efi
+# pacstrap /mnt base linux linux-firmware neovim
+# genfstab -U /mnt >> /mnt/etc/fstab
+# arch-chroot /mnt
+
+
 fallocate -l 2G /swapfile
 chmod 600 /swapfile
 mkswap /swapfile
