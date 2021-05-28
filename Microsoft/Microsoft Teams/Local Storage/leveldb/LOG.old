@@ -1,8 +1,0 @@
-2021/05/13-12:10:49.630 7a2 Reusing MANIFEST /home/itami/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/05/13-12:10:49.630 7a2 Recovering log #474
-2021/05/13-12:10:49.878 7a2 Level-0 table #478: started
-2021/05/13-12:10:50.036 7a2 Level-0 table #478: 512987 bytes OK
-2021/05/13-12:10:50.318 7a2 Delete type=0 #474
-2021/05/13-12:30:44.409 bf4 Level-0 table #481: started
-2021/05/13-12:30:44.547 bf4 Level-0 table #481: 83034 bytes OK
-2021/05/13-12:30:44.598 bf4 Delete type=0 #479
