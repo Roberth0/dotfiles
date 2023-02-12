@@ -4,9 +4,9 @@ Personal dotfiles based on arch linux install with hyprland window manager and n
 
 # Table of Contents
 
--[Overview](#dotfiles)
--[Installation](#installation)
-
+- [Overview](#dotfiles)
+- [Installation](#installation)
+				-[Single package](#single-package)
 
 # Installation
  
@@ -21,3 +21,4 @@ For being able to automatically generate all the simlinks required you must have
 sudo pacman -S stow
 ```
 
+## Single Package
