@@ -20,5 +20,12 @@ For being able to automatically generate all the simlinks required you must have
 ```bash
 sudo pacman -S stow
 ```
-
 ## Single Package
+
+When only applying one package config you should use the command **stow** followed by the directory you want to install
+
+```bash
+# Example alacritty
+stow alacritty
+```
+
