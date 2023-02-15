@@ -5,7 +5,7 @@ local function font_with_fallback(name, params)
 	return wezterm.font_with_fallback(names, params)
 end
 
---local font_name = "Cartograph CF"
+local font_name = "JetBrainsMono Nerd Font"
 
 return {
 	-- OpenGL for GPU acceleration, Software for CPU
@@ -25,7 +25,7 @@ return {
 			font = font_with_fallback(font_name, { bold = true }),
 		},
 		{
-			intensity = "Bold",
+			intensity = "Normal",
 			font = font_with_fallback(font_name, { bold = true }),
 		},
 	},
