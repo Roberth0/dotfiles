@@ -6,7 +6,7 @@ Personal dotfiles based on arch linux install with hyprland window manager and n
 
 - [Overview](#dotfiles)
 - [Installation](#installation)
--[Single package](#single-package)
+- [Single package](#single-package)
 
 # Installation
  
