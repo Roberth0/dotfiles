@@ -13,7 +13,7 @@
         "custom/weather",
         "wlr/workspaces"
     ],
-    "modules-center": ["hyprland/window"],
+    "modules-center": [],
     "modules-right": [
         "tray",
         "custom/updates",
