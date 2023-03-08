@@ -137,16 +137,22 @@ return {
 			mods = "CTRL|SHIFT",
 			action = wezterm.action({ CopyTo = "ClipboardAndPrimarySelection" }),
 		},
+    {
+      key = "/",
+      mods = "CTRL",
+      action = wezterm.action.SendString 'gcc',
+
+    }
 	},
 
 	-- Aesthetic Night Colorscheme
 	bold_brightens_ansi_colors = true,
 	-- Padding
 	window_padding = {
-		left = 25,
-		right = 25,
-		top = 25,
-		bottom = 25,
+		left = 10,
+		right = 10,
+		top = 10,
+		bottom = 10,
 	},
 
 	-- Tab Bar
