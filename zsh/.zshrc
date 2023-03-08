@@ -11,6 +11,7 @@ zstyle :compinstall filename '/home/itami/.zshrc'
 alias vim='nvim'
 alias install='sudo pacman -S'
 alias shut='poweroff'
+alias mkdir='mkdir -p'
 
 source $HOME/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
