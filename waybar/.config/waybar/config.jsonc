@@ -19,6 +19,7 @@
         "custom/updates",
         // "custom/language",
         "pulseaudio",
+        "battery",
         "pulseaudio#microphone"
     ],
 
@@ -65,6 +66,19 @@
     //     "format": " {}",
     //     "tooltip": false
     // },
+
+   "battery": {
+      "full-at": 95,
+      "states": {
+          "good": 95,
+          "warning": 30,
+          "critical": 15
+      },
+      "format": "{icon}  {capacity}%",
+      "format-icons": ["", "", "", "", ""]
+    },
+
+
     "custom/weather" : {
         "tooltip" : true,
         "format" : "{}",

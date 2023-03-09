@@ -2,6 +2,7 @@
 HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
+export LS_COLORS=$LS_COLORS:'ow=01;33'
 setopt autocd beep extendedglob nomatch notify
 bindkey -e
 # End of lines configured by zsh-newuser-install
@@ -12,6 +13,7 @@ alias vim='nvim'
 alias install='sudo pacman -S'
 alias shut='poweroff'
 alias mkdir='mkdir -p'
+alias ls='lsd'
 
 source $HOME/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
