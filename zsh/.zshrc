@@ -3,6 +3,7 @@ HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
 export LS_COLORS=$LS_COLORS:'ow=01;33'
+export PATH=$PATH:"/opt/flutter/bin"
 setopt autocd beep extendedglob nomatch notify
 bindkey -e
 # End of lines configured by zsh-newuser-install

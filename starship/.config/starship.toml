@@ -47,7 +47,7 @@ style = "fg:#edeff0 bg:#232526"
 
 [directory]
 format = "[$path]() "
-style = "fg:#edeff0 bg:#232526"
+style = "fg:#3366ff bg:#232526"
 truncation_length = 3
 truncate_to_repo=false
 
